@@ -1,0 +1,16 @@
+{
+  "name": "level2019",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.html",
+  "scripts": {
+    "build": "parcel build src/index.html",
+    "start": "parcel serve src/index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Raik Ilves",
+  "license": "ISC",
+  "dependencies": {
+    "parcel": "^2.0.0-alpha.3.2"
+  }
+}
